@@ -1,0 +1,4 @@
+name,email,age,flag
+ABC,abc@example.com,25,true
+PQR,pqrexample.com,30,false
+XYZ,xyz@example.com,28,true
